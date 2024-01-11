@@ -13,9 +13,7 @@ This is a collaborative document editing platform inspired by Google Docs, built
         <li><strong>User Authentication:</strong> Secure user authentication is implemented to ensure that only authorized users can create, edit, and save documents.</li>
         <li><strong>Persistence with MongoDB:</strong> Documents are stored in a MongoDB database, allowing users to save their work and retrieve it later. The database ensures data integrity and durability.</li>
         <li><strong>Responsive Design:</strong> The user interface is designed to be responsive and accessible across different devices, providing a consistent experience for users on desktops, tablets, and mobile devices.</li>
-    </ul>
-d
-    <h2>Technologies Used</h2>
+          <h2>Technologies Used</h2>
     <ul>
         <li><strong>Socket.io:</strong> For real-time bidirectional communication between the server and clients.</li>
         <li><strong>React:</strong> The frontend is built using React, providing a dynamic and efficient user interface.</li>
@@ -23,3 +21,6 @@ d
         <li><strong>MongoDB:</strong> The NoSQL database stores and retrieves documents, ensuring data persistence.</li>
         <li><strong>Quill:</strong> A powerful and customizable rich text editor that enhances the document editing experience.</li>
     </ul>
+    </ul>
+
+  
