@@ -14,7 +14,7 @@ This is a collaborative document editing platform inspired by Google Docs, built
         <li><strong>Persistence with MongoDB:</strong> Documents are stored in a MongoDB database, allowing users to save their work and retrieve it later. The database ensures data integrity and durability.</li>
         <li><strong>Responsive Design:</strong> The user interface is designed to be responsive and accessible across different devices, providing a consistent experience for users on desktops, tablets, and mobile devices.</li>
     </ul>
-
+d
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>Socket.io:</strong> For real-time bidirectional communication between the server and clients.</li>
