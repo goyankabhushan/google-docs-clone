@@ -26,6 +26,6 @@ This is a collaborative document editing platform inspired by Google Docs, built
         <li><strong>Quill:</strong> A powerful and customizable rich text editor that enhances the document editing experience.</li>
     </ul>
    <h2>Contact</h2>
-<p>For inquiries, you can reach out via email at <a href="mailto:goyankabhushan@gmail.com">your.email@example.com</a>.</p>
+<p>For inquiries, you can reach out via email at <a href="mailto:goyankabhushan@gmail.com">goyankabhushan@gmail.com</a>.</p>
 
   
