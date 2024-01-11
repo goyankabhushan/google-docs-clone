@@ -6,7 +6,8 @@ This is a collaborative document editing platform inspired by Google Docs, built
 <br/>
 <br/>
 <hr>
-![Screenshot 2024-01-12 050752](https://github.com/goyankabhushan/google-docs-clone/assets/122682007/b91e7e18-ef54-4551-bd59-af3971bc89af)
+
+![Screenshot 2024-01-12 050752](https://github.com/goyankabhushan/google-docs-clone/assets/122682007/520b3ff8-744f-4717-9569-1dffd8018034)
 
 <h2>Features</h2>
     <ul>
