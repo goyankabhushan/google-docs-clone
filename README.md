@@ -25,8 +25,7 @@ This is a collaborative document editing platform inspired by Google Docs, built
         <li><strong>MongoDB:</strong> The NoSQL database stores and retrieves documents, ensuring data persistence.</li>
         <li><strong>Quill:</strong> A powerful and customizable rich text editor that enhances the document editing experience.</li>
     </ul>
-  <h2>Watch Youtube video Here<h2>
-      <a href="https://youtu.be/fnoe-EuD768" target="_blank">Visit Example.com</a>
+      <a href="https://youtu.be/fnoe-EuD768" target="_blank">Watch Youtube video Here</a>
 
    <h2>Contact</h2>
 <p>For inquiries, you can reach out via email at <a href="mailto:goyankabhushan@gmail.com">goyankabhushan@gmail.com</a>.</p>
