@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "client": "npm --workspace client start",
+    "server": "npm --workspace server run dev",
+    "start": "concurrently \"npm --workspace server run dev\" \"npm --workspace client start\"",
+    "install-all": "npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
