@@ -1,6 +1,5 @@
 import "./App.css";
 import Editor from "./components/Editor";
-import logo from './assets/logo.png';
 
 import {
   BrowserRouter as Router,
@@ -19,11 +18,6 @@ function App() {
         <Route path="/docs/:id" element={<Editor />} />
       </Routes>
     </Router>
-  );
-}
-function Navbar() {
-  return (
-    <img src={logo} alt="Logo" width="50" />
   );
 }
 
